@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  <img class="img" src="../../images/1.jpg" alt=""/>
+  <text>dxx</text>
+  <view class="btn">
+    <text>开始小程序之旅</text>
+  </view>
+</view>

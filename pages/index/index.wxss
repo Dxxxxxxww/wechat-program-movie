@@ -1,0 +1,16 @@
+/**index.wxss**/
+.img {
+  width: 300rpx;
+  height: 300rpx;
+}
+.btn {
+  border: 1rpx solid #ccc;
+  border-radius: 10rpx;
+  margin-top: 200rpx;
+  width: 300rpx;
+  height: 120rpx;
+  font-size: 32rpx;
+  line-height: 120rpx;
+  text-align: center;
+  color: rgb(250, 246, 246);
+}
